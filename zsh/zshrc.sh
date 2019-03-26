@@ -8,6 +8,10 @@
 
 # Aliases
 	alias v="vim -p"
+	alias j="jupyter notebook"
+	alias p="cd /Users/lee/Dropbox/pad"	
+	alias t="tree -L 1"
+	alias rc="vi /Users/lee/dotfiles/zsh/zshrc.sh"
 	mkdir -p /tmp/log
 	
 	# This is currently causing problems (fails when you run it anywhere that isn't a git project's root directory)
